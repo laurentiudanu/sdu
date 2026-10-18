@@ -6,3 +6,5 @@ Sound Deconstruction Unit is a free tool that runs in your browser (tested only 
 - it will generated "Void fragments" which are basically splices that are random in duration, pitch, play direction, pitch and panning
 - each fragments can be downloaded as a standalone sound, played once or as a loop, can be panned left/right and has volume control
 - the tool also comes with a built-in delay and reverb that are off by default
+
+Easy to use - just download the zip, extract the content and double click the sdu.html file (it should open in your default browser).
